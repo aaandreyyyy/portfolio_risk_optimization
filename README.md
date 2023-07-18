@@ -9,5 +9,5 @@ Where:
 - $E_i$ - expected value of i-th stock
 
 Params:
-input_file output_file period_size number_of_periods
+input_file output_file period_size number_of_periods \
 period_size can be: DAY, WEEK, MONTH, THREE_MONTH
