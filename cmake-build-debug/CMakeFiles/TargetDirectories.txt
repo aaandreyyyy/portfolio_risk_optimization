@@ -1,0 +1,3 @@
+/Users/andrejaksenov/CLionProjects/risk_optimization/cmake-build-debug/CMakeFiles/risk_optimization.dir
+/Users/andrejaksenov/CLionProjects/risk_optimization/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andrejaksenov/CLionProjects/risk_optimization/cmake-build-debug/CMakeFiles/rebuild_cache.dir
